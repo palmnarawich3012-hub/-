@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "com.pepperspray.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": ["HeldItemRendererMixin", "PlayerEntityRendererMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
